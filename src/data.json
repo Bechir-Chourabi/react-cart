@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+    "_id":"temp1",
+    "title":"template1",
+    "image":"/images/temp1.jpg",
+    "description":"template-e-comerce",
+    "price": 10 ,
+    "type":["free","notfree"]
+},
+{
+    "_id":"temp2",
+    "title":"template2",
+    "image":"/images/temp2.jpg",
+    "description":"templateportfolio",
+    "price": 5 ,
+    "type":["free","notfree"]
+},
+{
+    "_id":"temp3",
+    "title":"template3",
+    "image":"/images/temp3.jpg",
+    "description":"template-web",
+    "price": 15 ,
+    "type":["free","notfree"]
+},
+{
+    "_id":"temp4",
+    "title":"template4",
+    "image":"/images/temp4.jpg",
+    "description":"template-e-comerce-premium",
+    "price": 20 ,
+    "type":["free","notfree"]
+},
+{
+    "_id":"temp5",
+    "title":"template5",
+    "image":"/images/temp5.jpg",
+    "description":"template-photograph",
+    "price": 30 ,
+    "type":["free","notfree"]
+},
+{
+    "_id":"temp6",
+    "title":"template6",
+    "image":"/images/temp6.jpg",
+    "description":"template-art",
+    "price": 50 ,
+    "type":["free","notfree"]
+}
+]
+}
